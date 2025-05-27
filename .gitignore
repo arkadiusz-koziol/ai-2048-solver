@@ -1,0 +1,10 @@
+.qodo
+.venv/
+model.zip
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.db
+logs/
