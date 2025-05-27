@@ -14,21 +14,6 @@ This project implements a reinforcement learning agent using Proximal Policy Opt
 
 ---
 
-## 🗂️ Project Structure
-
-.
-├── domain/
-│ ├── game_2048.py # Game logic and core mechanics
-│ └── value_objects.py # Board abstraction as a value object
-├── envs/
-│ └── simple_2048_env.py # Gym environment wrapper for 2048
-├── logs/ # PPO training logs (auto-generated)
-├── main.py # Training & testing PPO agent
-└── README.md
-
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Install Requirements
