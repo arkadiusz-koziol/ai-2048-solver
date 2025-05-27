@@ -18,7 +18,6 @@ This project implements a reinforcement learning agent using Proximal Policy Opt
 
 ### 1. Install Requirements
 
-```bash
 pip install -r requirements.txt
 2. Run Training and Testing
 python main.py
