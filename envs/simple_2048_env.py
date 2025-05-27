@@ -1,4 +1,3 @@
-# file: envs/simple_2048_env.py
 import gym
 from gym import spaces
 import numpy as np

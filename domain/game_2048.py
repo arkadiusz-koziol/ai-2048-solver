@@ -1,4 +1,3 @@
-# file: domain/game_2048.py
 import random
 import numpy as np
 from domain.value_objects import Board

@@ -50,17 +50,21 @@ Final score summaries for test episodes
 ```
 
 🧱 Architecture Principles
-
+```bash
 SOLID principles applied
 Domain-driven design (DDD): clear separation of domain, environment, and interface layers
 DRY & KISS: concise and reusable components
-📬 Contributions
+```
 
+📬 Contributions
+```bash
 PRs and issues are welcome. This project is structured to be extended with more agents, UIs, or gameplay enhancements.
+```
+
 
 📝 License
-
+```bash
 MIT License
 
-
 Let me know if you want a corresponding `requirements.txt` as well.
+```

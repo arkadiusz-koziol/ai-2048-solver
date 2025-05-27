@@ -1,4 +1,3 @@
-# file: domain/value_objects.py
 import numpy as np
 
 class Board:
